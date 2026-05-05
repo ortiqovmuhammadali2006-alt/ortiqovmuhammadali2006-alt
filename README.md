@@ -27,13 +27,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ortiqovmuhammadali2006-alt&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ortiqovmuhammadali2006-alt&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/ortiqovmuhammadali2006-alt">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ortiqovmuhammadali2006-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ortiqovmuhammadali2006-alt&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ortiqovmuhammadali2006-alt&theme=tokyonight&hide_border=true)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=ortiqovmuhammadali2006-alt&color=blue&style=flat-square)
 
 </div>
