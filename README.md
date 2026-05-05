@@ -1,6 +1,6 @@
 <!-- HEADER animatsiya -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ortiqov%20Muhammadali&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ortikhov%20MuhammadAli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Backend%20Developer&descAlignY=55&descSize=20"/>
 </div>
 
 <!-- Typing animatsiya -->
