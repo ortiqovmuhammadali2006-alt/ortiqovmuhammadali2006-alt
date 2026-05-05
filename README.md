@@ -5,10 +5,9 @@
 
 <!-- Typing animatsiya -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Python+Developer+🐍;Django+Backend+Engineer+⚙️;20%2B+Projects+Created+🚀;Always+Learning+📚" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Python+Developer;Django+Backend+Engineer;20%2B+Projects+Created;Always+Learning" />
 </div>
 
----
 
 ## 🛠 Tools and Technologies
 
