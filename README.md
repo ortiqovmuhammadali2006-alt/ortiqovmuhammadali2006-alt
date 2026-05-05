@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ortiqov Muhammadali 👋
+# Ortikhov Muhammad Ali 👋
 
 🎓 Farg'ona davlat texnika universiteti talabasi  
 💻 Junior Backend Developer  
