@@ -33,22 +33,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ortiqovmuhammadali2006-alt&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 📌 Pinned Projects
-
-| Loyiha | Texnologiya |
-|--------|------------|
-| 🍔 [BurgerHouse](https://github.com/ortiqovmuhammadali2006-alt/BurgerHouse) | HTML/CSS |
-| 🌤 [Weather](https://github.com/ortiqovmuhammadali2006-alt/Weather) | Python |
-| 📚 [Book-Store](https://github.com/ortiqovmuhammadali2006-alt/Book-Store) | Python/Django |
-| 🤖 [FoodieBot](https://github.com/ortiqovmuhammadali2006-alt/FoodieBot) | Python |
-
----
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ortiqovmuhammadali2006-alt&color=blue&style=flat-square)
 
