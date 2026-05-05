@@ -18,10 +18,14 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,docker,linux,postgresql,sqlite,vscode,pycharm" />
+
+</div>
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=cursor" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
-
 
 </div>
 
